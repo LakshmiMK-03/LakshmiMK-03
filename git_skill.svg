@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 150" width="110" height="150">
+  <defs>
+    <linearGradient id="skill-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f141c"/>
+      <stop offset="100%" stop-color="#080b0f"/>
+    </linearGradient>
+    <filter id="skill-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="106" height="146" rx="6" fill="url(#skill-card-bg)" stroke="#30363d" stroke-width="1"/>
+  <text x="55" y="22" font-family="'Outfit', sans-serif" font-size="9" font-weight="700" fill="#c9d1d9" text-anchor="middle">GIT &amp; GITHUB</text>
+  <text x="55" y="32" font-family="'Outfit', sans-serif" font-size="8" font-weight="600" fill="#8b949e" text-anchor="middle">Version Ctrl</text>
+  <g transform="translate(38, 48) scale(1.1)">
+    <path d="M18.89 12.83c-.61-.34-1.28-.5-1.89-.5-.83 0-1.56.28-2.11.78l-3.33-3.33a2.91 2.91 0 0 0 .78-2.11c0-1.61-1.31-2.92-2.92-2.92S6.5 6.06 6.5 7.67c0 .83.28 1.56.78 2.11l3.33 3.33a2.91 2.91 0 0 0-.78 2.11c0 1.61 1.31 2.92 2.92 2.92.83 0 1.56-.28 2.11-.78l3.33 3.33c-.5.56-.78 1.28-.78 2.11 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-.83-.28-1.56-.78-2.11l-3.33-3.33a2.91 2.91 0 0 0 .78-2.11c0-.44-.11-.83-.28-1.22z" fill="#f05032"/>
+  </g>
+  <g>
+    <circle cx="22" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="35" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="48" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="61" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="74" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="87" cy="132" r="3.5" fill="#21262d"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 150" width="110" height="150">
+  <defs>
+    <linearGradient id="skill-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f141c"/>
+      <stop offset="100%" stop-color="#080b0f"/>
+    </linearGradient>
+    <filter id="skill-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="106" height="146" rx="6" fill="url(#skill-card-bg)" stroke="#30363d" stroke-width="1"/>
+  <text x="55" y="22" font-family="'Outfit', sans-serif" font-size="9" font-weight="700" fill="#c9d1d9" text-anchor="middle">PANDAS</text>
+  <text x="55" y="32" font-family="'Outfit', sans-serif" font-size="8" font-weight="600" fill="#8b949e" text-anchor="middle">Analytics</text>
+  <g transform="translate(38, 48) scale(1.1)">
+    <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z" fill="#4caf50"/>
+  </g>
+  <g>
+    <circle cx="22" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="35" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="48" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="61" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="74" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/>
+    <circle cx="87" cy="132" r="3.5" fill="#21262d"/>
+  </g>
+</svg>
