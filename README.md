@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hello 👋, I'm Lakshmi
-## Ranked Under Top 1% Kagglers ✨
-### Passionate 🤖 Data Engineer & Data Analyst
+## Top 1% Kaggle Competitor 🏆
+### Passionate 🤖 Machine Learning Engineer
 
 <br />
 
@@ -16,10 +16,13 @@
 
 <!-- Quick Connections / Badges -->
 <p align="center">
-  <a href="https://www.kaggle.com/lakshmimk03" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Click-008bb9?style=flat-square&logo=kaggle" /></a>
-  <a href="https://lakshmimk03.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Click-24292e?style=flat-square&logo=github" /></a>
-  <a href="https://medium.com/@lakshmimk" target="_blank"><img src="https://img.shields.io/badge/blog-Click-00ab6c?style=flat-square&logo=medium" /></a>
-  <a href="https://linkedin.com/in/lakshmi-mk-work" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Click-0077b5?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.kaggle.com/lakshmimk03" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Click-e65100?style=flat-square&logo=kaggle" /></a>
+  <a href="https://lakshmi.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Click-0d6efd?style=flat-square" /></a>
+  <a href="https://medium.com/@lakshmimk" target="_blank"><img src="https://img.shields.io/badge/Blog-Click-00a2b8?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/Master-⚙️-ff8f00?style=flat-square" />
+  <a href="https://linkedin.com/in/lakshmi-mk-work" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Click-00b0ff?style=flat-square&logo=linkedin" /></a>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Profile_views-7,421-1f2937?style=flat-square" />
 </p>
 
@@ -56,9 +59,9 @@
 
 <div align="left">
 
-* 📩 **How to reach me**: [lakshmimk03.work@gmail.com](mailto:lakshmimk03.work@gmail.com)
-* ⚡ *I love building ML solutions, high-performance data pipelines, and contributing to Open Source.*
-* 🧠 *Currently exploring MLOps, LLMs, and GenAI.*
+* 📩 **How to reach me**: [lakshmi.mk@gmail.com](mailto:lakshmi.mk@gmail.com)
+* ⚡ *I love building ML solutions and contributing to Open Source.*
+* 🌱 *Currently exploring MLOps, Deep Learning, and LLMs.*
 
 </div>
 
