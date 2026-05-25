@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hello 👋, I'm Lakshmi
-## Top 1% Kaggle Competitor 🏆
 ### Passionate 🤖 Machine Learning Engineer
 
 <br />
