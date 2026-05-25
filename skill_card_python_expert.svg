@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 150" width="110" height="150">
+      <defs>
+        <linearGradient id="skill-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0f141c"/>
+          <stop offset="100%" stop-color="#080b0f"/>
+        </linearGradient>
+        <filter id="skill-glow" x="-40%" y="-40%" width="180%" height="180%">
+          <feGaussianBlur stdDeviation="1.5" result="blur"/>
+          <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+        </filter>
+        <filter id="glow-icon" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="2" result="blur"/>
+          <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+        </filter>
+      </defs>
+      <rect x="2" y="2" width="106" height="146" rx="6" fill="url(#skill-card-bg)" stroke="#30363d" stroke-width="1"/>
+      <text x="55" y="22" font-family="'Outfit', sans-serif" font-size="9" font-weight="700" fill="#c9d1d9" text-anchor="middle">Python</text>
+      <text x="55" y="32" font-family="'Outfit', sans-serif" font-size="8" font-weight="600" fill="#8b949e" text-anchor="middle">Expert</text>
+      
+    <g transform="translate(35, 45) scale(1.15)">
+      <path d="M14.25 0c-2.62 0-4.88.19-6.47.53C5.19.88 3.5 1.5 2.5 2.5 1.28 3.72.63 5.41.63 7.84c0 2.22.56 3.82 1.56 4.75l1.81 1.72v-1.63c0-2.31 1.88-4.19 4.19-4.19h7.06c1.19 0 2.16-.97 2.16-2.16V2.78c0-1.53-.78-2.31-2.31-2.59C14.78.03 14.47 0 14.25 0zm-5.41 1.72c.66 0 1.19.53 1.19 1.19 0 .66-.53 1.19-1.19 1.19a1.19 1.19 0 0 1-1.19-1.19c0-.66.53-1.19 1.19-1.19z" fill="#387eb8"/>
+      <path d="M18.84 9.16H11.8c-1.19 0-2.16.97-2.16 2.16v3.56c0 1.53.78 2.31 2.31 2.59.31.06.63.09.84.09 2.63 0 4.88-.19 6.47-.53 2.59-.34 4.28-.97 5.28-1.97 1.22-1.22 1.87-2.91 1.87-5.34 0-2.22-.56-3.81-1.56-4.75l-1.81-1.72v1.63c0 2.31-1.88 4.19-4.19 4.19zm-3.56 7.47c-.66 0-1.19-.53-1.19-1.19 0-.66.53-1.19 1.19-1.19a1.19 1.19 0 0 1 1.19 1.19c0 .66-.53 1.19-1.19 1.19z" fill="#ffe052"/>
+    </g>
+  
+      <g>
+        <circle cx="22" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/><circle cx="35" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/><circle cx="48" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/><circle cx="61" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/><circle cx="74" cy="132" r="3.5" fill="#ab47bc" filter="url(#skill-glow)"/><circle cx="87" cy="132" r="3.5" fill="#21262d"/>
+      </g>
+    </svg>
+  
